@@ -1,11 +1,34 @@
+# Python Learning Website 🐍
 
-  # Python Learning Website
+**Free & open-source** learning resources for Python — curated by Samarajit.
 
-  This is a code bundle for Python Learning Website. The original project is available at https://www.figma.com/design/mgvI8BTo55Xn9i7wDIvXt9/Python-Learning-Website.
+- **dev site (about me):** https://samar.is-a.dev 
+- **Support the project:** https://buymeacoffee.com/samarajit ☕️
+- **live site:** https://
 
-  ## Running the code
+## About
 
-  Run `npm i` to install the dependencies.
+This repository contains a beginner-friendly, open-source website for learning Python concepts, data structures & algorithms, OOP, best practices, and more. The project is built with Vite + React (TypeScript).
 
-  Run `npm run dev` to start the development server.
-  
+## Development
+
+1. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+2. Run the dev server:
+
+   ```bash
+   npm run dev
+   ```
+
+Open http://localhost:5173 (or the URL Vite prints) to view the site locally.
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests with improvements, new content, fixes, or translations.
+
+
+---
